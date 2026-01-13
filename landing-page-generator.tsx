@@ -16,8 +16,8 @@ const LandingPageGenerator = () => {
     ctaColor: '#ff8c42'
   });
   const [testResults, setTestResults] = useState({
-    variantA: { views: 1247, clicks: 156, conversion: 12.5 },
-    variantB: { views: 1198, clicks: 189, conversion: 15.8 }
+    variantA: { views: #, clicks: #, conversion: # },
+    variantB: { views: #, clicks: #, conversion: # }
   });
   const [isTestRunning, setIsTestRunning] = useState(true);
   const [copied, setCopied] = useState(false);
